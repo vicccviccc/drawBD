@@ -69,4 +69,4 @@ A consulta retornou 15 itens de cobrança. Um exemplo é a cobrança 7, de Andr�
 
 Os resultados acima foram registrados a partir dos testes no Workbench. As oito abas de resultados foram geradas. Depois das consultas houve uma tentativa de EXPLAIN sobre USE, que não é um comando válido e não faz parte dos scripts.
 
-Para repetir os testes, execute [DDL](../modelagem/script-ddl.sql), [DML](../modelagem/script-dml.sql) e [consultas](../modelagem/consultas.sql), nessa ordem.
+
